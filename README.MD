@@ -10,11 +10,11 @@
 ## Project 1 [Live Link](https://vinaymaurya-project-1.netlify.app/)
 
 - Things Got to know in this projects
-    * Learned to use pseudo classes like :last-child, first-child, :not(), :nth-child()
+    * Learned to use pseudo classes like **:last-child, first-child, :not(), :nth-child()**
 
-    * Learned to use css position [Relative & Absolute] property.
+    * Learned to use css position **[Relative & Absolute]** property.
 
-    * Learned to create or disable underline on navbar link using ::before & :::after pseudo elements.
+    * Learned to create or disable underline on navbar link using **::before & :::after** pseudo elements.
 
 ## Serious Time Taken to finish this Project
 
